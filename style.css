@@ -1,0 +1,3 @@
+html,body{margin:0;width:100%;height:100%;height:100dvh;overflow:hidden;overscroll-behavior:none;touch-action:none;user-select:none;-webkit-user-select:none;-webkit-touch-callout:none;-webkit-tap-highlight-color:transparent;
+background:#030a18;background-image:linear-gradient(rgba(0,229,255,.06) 1px,transparent 1px),linear-gradient(90deg,rgba(0,229,255,.06) 1px,transparent 1px),radial-gradient(circle at 50% 50%,#0a2a4a,#030a18 75%);background-size:36px 36px,36px 36px,100% 100%}
+canvas{position:fixed;left:50%;top:50%;transform:translate(-50%,-50%);display:block;cursor:pointer;touch-action:none;border-radius:10px;box-shadow:0 0 0 2px rgba(0,229,255,.5),0 0 40px rgba(0,229,255,.35)}
